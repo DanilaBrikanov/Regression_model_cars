@@ -1,0 +1,1 @@
+In this notebook, a regression model was created that, based on data about a BMW car, offers a price, and tools were also used to analyze each variable in this dataset.
